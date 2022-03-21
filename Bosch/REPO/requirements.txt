@@ -1,0 +1,7 @@
+torch
+thop
+basicsr
+facexlib
+gfpgan
+opencv-python
+gfpgan
