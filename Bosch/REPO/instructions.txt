@@ -1,0 +1,6 @@
+%cd /REPO/Real-ESRGAN
+!pip install basicsr
+!pip install facexlib
+!pip install gfpgan
+!pip install -r requirements.txt
+!python setup.py develop
